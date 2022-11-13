@@ -1,0 +1,15 @@
+#output {
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+width: 500px;
+}
+
+#player1score {
+
+    color: white;
+    font-size: 50px;
+}
